@@ -1,179 +1,641 @@
-# Plano de Estudo de Matemática — 5.º Ano
+# Plano Autónomo de Estudo de Matemática — 5.º Ano
 
-**Aluno:** 5.º ano  
-**Duração:** sexta-feira a terça-feira  
-**Objetivo:** preparar o teste de Matemática com estudo organizado, exercícios graduados e revisão dos erros.
+**Aluno:** Lucas  
+**Teste:** terça-feira  
+**Plano de estudo:** sexta-feira, sábado, domingo, segunda-feira e revisão leve na terça-feira  
+**Matéria do teste:**
 
----
-
-## 1. Objetivo geral
-
-Este plano foi pensado para um aluno do 5.º ano que normalmente tem bom desempenho a Matemática, mas que está com dificuldades nesta unidade.
-
-A ideia não é estudar tudo de forma pesada. O objetivo é:
-
-- recuperar confiança;
-- rever os conceitos essenciais;
-- praticar exercícios parecidos com teste;
-- identificar erros frequentes;
-- chegar ao teste com método e tranquilidade.
-
-A matéria inclui:
-
-- desigualdade triangular;
-- sequências com poliedros;
-- sequências com não poliedros;
-- planificações;
-- pirâmides;
-- prismas;
-- áreas;
-- perímetros;
-- sólidos geométricos;
-- expressões algébricas.
-
-> Nota: por vezes os alunos dizem “igualdade triangular”, mas o nome mais comum é **desigualdade triangular**. A regra importante é verificar se três comprimentos conseguem formar um triângulo.
+- Igualdade de triângulos
+- Figuras equivalentes
+- Áreas e perímetros
+- Sequências
+- Expressões algébricas
+- Sólidos geométricos
+- Poliedros e não poliedros
+- Prismas e pirâmides
+- Faces, arestas e vértices
+- Problemas envolvendo estes conteúdos
 
 ---
 
-# 2. Plano geral dos 4 dias
+# 1. Como usar este guia
 
-## Sexta-feira — Diagnóstico e organização
+Lucas, este guia foi feito para conseguires estudar com bastante autonomia.
 
-### Objetivos do dia
+Não precisas de decorar tudo de uma vez. Deves estudar por partes, fazer exercícios, corrigir e perceber os erros.
 
-- Perceber exatamente quais são os temas mais frágeis.
-- Rever os conceitos principais de sólidos geométricos.
-- Separar a matéria em três grupos:
-  - sei bem;
-  - sei mais ou menos;
-  - ainda não percebi.
+## Método de estudo
 
-### Duração sugerida
+Para cada tema:
+
+1. Lê a explicação.
+2. Vê o exemplo resolvido.
+3. Tenta resolver os exercícios sozinho.
+4. Só depois consulta as soluções.
+5. Marca os exercícios que erraste.
+6. Volta a fazer, mais tarde, os exercícios em que tiveste dificuldade.
+
+## Regra importante
+
+> Não vás ver as soluções antes de tentares resolver.
+
+As soluções servem para corrigir, não para copiar.
+
+---
+
+# 2. Plano dos dias
+
+## Sexta-feira — Diagnóstico e revisão inicial
+
+### Objetivo
+
+Descobrir o que já sabes bem e o que precisa de mais treino.
+
+### Tempo sugerido
 
 60 a 75 minutos.
 
-### Estrutura
+### O que fazer
 
-1. **10 minutos** — conversa inicial sobre a matéria.
-2. **30 a 40 minutos** — mini diagnóstico.
-3. **15 minutos** — correção e lista de dificuldades.
-4. **10 minutos** — revisão rápida dos conceitos principais.
+1. Ler a secção de apoio sobre:
+    - igualdade de triângulos;
+    - figuras equivalentes;
+    - área e perímetro.
+2. Resolver a **Ficha 1 — Diagnóstico**.
+3. Corrigir com as soluções.
+4. Preencher a tabela de dificuldades.
 
-### O que rever
+### Tabela de dificuldades
 
-- O que é um sólido geométrico.
-- Diferença entre poliedro e não poliedro.
-- Diferença entre prisma e pirâmide.
-- Face, aresta e vértice.
-- Área e perímetro, apenas de forma introdutória.
+Depois de corrigires, coloca um X.
+
+| Tema                      | Sei bem | Sei mais ou menos | Preciso de ajuda |
+| ------------------------- | ------- | ----------------- | ---------------- |
+| Igualdade de triângulos   |         |                   |                  |
+| Figuras equivalentes      |         |                   |                  |
+| Áreas                     |         |                   |                  |
+| Perímetros                |         |                   |                  |
+| Sequências                |         |                   |                  |
+| Expressões algébricas     |         |                   |                  |
+| Sólidos geométricos       |         |                   |                  |
+| Poliedros e não poliedros |         |                   |                  |
+| Prismas e pirâmides       |         |                   |                  |
+| Faces, arestas e vértices |         |                   |                  |
 
 ---
 
-## Sábado — Geometria 3D: prismas, pirâmides, planificações e triângulos
+## Sábado — Geometria plana: triângulos, figuras equivalentes, áreas e perímetros
 
-### Objetivos do dia
+### Objetivo
 
-- Consolidar sólidos geométricos.
-- Distinguir prismas de pirâmides.
-- Interpretar planificações.
-- Treinar a desigualdade triangular.
+Consolidar a parte das figuras planas.
 
-### Duração sugerida
+### Tempo sugerido
 
-2 blocos de 45 a 60 minutos, com intervalo.
+2 blocos de 45 minutos.
 
 ### Bloco 1
 
-- Prismas.
-- Pirâmides.
-- Poliedros e não poliedros.
-- Faces, arestas e vértices.
+- Igualdade de triângulos.
+- Figuras equivalentes.
+- Comparação de áreas.
 
 ### Bloco 2
 
-- Planificações.
-- Desigualdade triangular.
-- Exercícios visuais.
+- Perímetros.
+- Áreas.
+- Problemas com áreas e perímetros.
 
 ---
 
-## Domingo — Área, perímetro, sequências e expressões algébricas
+## Domingo — Sequências, expressões algébricas e sólidos geométricos
 
-### Objetivos do dia
+### Objetivo
 
-- Separar bem área de perímetro.
-- Resolver exercícios com unidades corretas.
-- Identificar regras em sequências.
-- Substituir letras por números em expressões algébricas.
+Trabalhar regularidades, letras em Matemática e sólidos.
 
-### Duração sugerida
+### Tempo sugerido
 
 2 blocos de 45 a 60 minutos.
 
 ### Bloco 1
 
-- Perímetro.
-- Área.
-- Figuras simples e figuras compostas.
+- Sequências numéricas.
+- Sequências figurativas.
+- Expressões algébricas.
 
 ### Bloco 2
 
-- Sequências numéricas.
-- Sequências com figuras.
-- Expressões algébricas.
+- Sólidos geométricos.
+- Poliedros e não poliedros.
+- Prismas e pirâmides.
+- Faces, arestas e vértices.
 
 ---
 
-## Segunda-feira — Simulação de teste e correção
+## Segunda-feira — Simulação de teste
 
-### Objetivos do dia
+### Objetivo
 
-- Fazer uma ficha parecida com teste.
-- Corrigir com atenção.
-- Rever apenas os pontos fracos.
-- Preparar uma folha final de revisão.
+Treinar como se estivesses no teste.
 
-### Duração sugerida
+### Tempo sugerido
 
 75 a 90 minutos.
 
-### Estrutura
+### O que fazer
 
-1. **45 minutos** — simulação de teste.
-2. **20 minutos** — correção.
-3. **15 minutos** — revisão dos erros.
-4. **10 minutos** — folha final de memória.
+1. Resolver a **Ficha 4 — Simulação de teste** em 45 minutos.
+2. Corrigir com atenção.
+3. Rever apenas os temas em que erraste.
+4. Ler a folha final de revisão.
 
 ---
 
-## Terça-feira — Revisão leve antes do teste
+## Terça-feira — Revisão leve
 
 ### Objetivo
 
 Entrar no teste calmo e confiante.
 
-### Duração sugerida
+### Tempo sugerido
 
 10 a 15 minutos.
 
 ### Rever apenas
 
-- Diferença entre área e perímetro.
-- Diferença entre prisma e pirâmide.
-- Diferença entre poliedro e não poliedro.
-- Regra para formar triângulos.
-- Uma ou duas expressões algébricas simples.
-- Uma sequência simples.
-
-Não estudar de forma pesada antes do teste.
+- critérios de igualdade de triângulos;
+- diferença entre área e perímetro;
+- figuras equivalentes;
+- fórmulas de áreas;
+- sequências e expressões algébricas;
+- diferença entre prisma e pirâmide;
+- diferença entre poliedro e não poliedro.
 
 ---
 
-# 3. Resumo teórico essencial
+# 3. Apoio teórico
 
-## 3.1. Sólidos geométricos
+---
 
-Um **sólido geométrico** é uma figura com três dimensões:
+# 3.1. Igualdade de triângulos
+
+Dois triângulos são **iguais** quando têm exatamente a mesma forma e o mesmo tamanho.
+
+Também se pode dizer que são **congruentes**.
+
+Isto significa que, se colocasses um triângulo por cima do outro, eles coincidiriam perfeitamente.
+
+## O que tem de ser igual?
+
+Para dois triângulos serem iguais, os seus elementos correspondentes têm de ser iguais:
+
+- lados correspondentes iguais;
+- ângulos correspondentes iguais.
+
+Mas, muitas vezes, não é preciso conhecer tudo. Existem critérios que permitem concluir que dois triângulos são iguais.
+
+---
+
+## Critério LLL — Lado, Lado, Lado
+
+Dois triângulos são iguais se tiverem os três lados correspondentes iguais.
+
+### Exemplo
+
+Triângulo A:
+
+```text
+3 cm, 4 cm, 5 cm
+```
+
+Triângulo B:
+
+```text
+3 cm, 4 cm, 5 cm
+```
+
+Como os três lados são iguais, os triângulos são iguais.
+
+---
+
+## Critério LAL — Lado, Ângulo, Lado
+
+Dois triângulos são iguais se tiverem:
+
+- dois lados correspondentes iguais;
+- o ângulo entre esses dois lados também igual.
+
+### Exemplo
+
+Triângulo A:
+
+```text
+lado = 5 cm
+ângulo entre os lados = 60°
+lado = 7 cm
+```
+
+Triângulo B:
+
+```text
+lado = 5 cm
+ângulo entre os lados = 60°
+lado = 7 cm
+```
+
+Os triângulos são iguais pelo critério LAL.
+
+---
+
+## Critério ALA — Ângulo, Lado, Ângulo
+
+Dois triângulos são iguais se tiverem:
+
+- dois ângulos correspondentes iguais;
+- o lado entre esses ângulos igual.
+
+### Exemplo
+
+Triângulo A:
+
+```text
+ângulo = 40°
+lado entre os ângulos = 6 cm
+ângulo = 70°
+```
+
+Triângulo B:
+
+```text
+ângulo = 40°
+lado entre os ângulos = 6 cm
+ângulo = 70°
+```
+
+Os triângulos são iguais pelo critério ALA.
+
+---
+
+## Atenção
+
+Se dois triângulos tiverem apenas um lado igual, isso não chega.
+
+Se tiverem apenas dois lados iguais, também não chega.
+
+Tens de ter informação suficiente para garantir que são exatamente iguais.
+
+---
+
+# 3.2. Figuras equivalentes
+
+Duas figuras são **equivalentes** quando têm a mesma área.
+
+Podem ter formas diferentes, mas ocupam a mesma superfície.
+
+## Exemplo
+
+Um retângulo pode ter:
+
+```text
+comprimento = 6 cm
+largura = 4 cm
+área = 6 × 4 = 24 cm²
+```
+
+Outro retângulo pode ter:
+
+```text
+comprimento = 8 cm
+largura = 3 cm
+área = 8 × 3 = 24 cm²
+```
+
+As figuras têm formas diferentes, mas a mesma área.
+
+Logo, são figuras equivalentes.
+
+## Importante
+
+Figuras equivalentes:
+
+- têm a mesma área;
+- não precisam de ter o mesmo perímetro;
+- não precisam de ter a mesma forma.
+
+---
+
+# 3.3. Perímetro
+
+O **perímetro** é a medida do contorno de uma figura.
+
+É como se desses uma volta completa à figura.
+
+## Unidades
+
+O perímetro usa unidades de comprimento:
+
+- mm;
+- cm;
+- m;
+- km.
+
+Nunca se escreve `cm²` no perímetro.
+
+## Exemplo: quadrado
+
+Um quadrado com lado de 5 cm tem perímetro:
+
+```text
+5 + 5 + 5 + 5 = 20 cm
+```
+
+Ou:
+
+```text
+4 × 5 = 20 cm
+```
+
+## Exemplo: retângulo
+
+Um retângulo com comprimento de 8 cm e largura de 3 cm tem perímetro:
+
+```text
+8 + 3 + 8 + 3 = 22 cm
+```
+
+Ou:
+
+```text
+2 × 8 + 2 × 3 = 22 cm
+```
+
+---
+
+# 3.4. Área
+
+A **área** é a medida da superfície ocupada por uma figura.
+
+## Unidades
+
+A área usa unidades quadradas:
+
+- mm²;
+- cm²;
+- m²;
+- km².
+
+Nunca se escreve `cm` na área.
+
+---
+
+## Área do quadrado
+
+```text
+Área = lado × lado
+```
+
+Exemplo:
+
+```text
+lado = 6 cm
+
+Área = 6 × 6 = 36 cm²
+```
+
+---
+
+## Área do retângulo
+
+```text
+Área = comprimento × largura
+```
+
+Exemplo:
+
+```text
+comprimento = 9 cm
+largura = 4 cm
+
+Área = 9 × 4 = 36 cm²
+```
+
+---
+
+## Área do paralelogramo
+
+```text
+Área = base × altura
+```
+
+A altura tem de ser perpendicular à base.
+
+Exemplo:
+
+```text
+base = 8 cm
+altura = 5 cm
+
+Área = 8 × 5 = 40 cm²
+```
+
+---
+
+## Área do triângulo
+
+```text
+Área = (base × altura) ÷ 2
+```
+
+O triângulo tem metade da área de um paralelogramo com a mesma base e a mesma altura.
+
+Exemplo:
+
+```text
+base = 10 cm
+altura = 4 cm
+
+Área = (10 × 4) ÷ 2 = 40 ÷ 2 = 20 cm²
+```
+
+---
+
+# 3.5. Área ou perímetro?
+
+Esta é uma confusão muito comum.
+
+## Perímetro
+
+Usas perímetro quando queres medir à volta.
+
+Exemplos:
+
+- vedação à volta de um jardim;
+- fita à volta de uma cartolina;
+- moldura de um quadro;
+- contorno de uma figura.
+
+## Área
+
+Usas área quando queres medir a superfície.
+
+Exemplos:
+
+- pintar uma parede;
+- cobrir o chão;
+- colocar relva num jardim;
+- saber o espaço ocupado por uma figura.
+
+## Pergunta que ajuda
+
+```text
+Estou a medir à volta ou por dentro?
+```
+
+Se for à volta, é perímetro.
+
+Se for por dentro, é área.
+
+---
+
+# 3.6. Figuras compostas
+
+Uma figura composta é formada por várias figuras mais simples.
+
+Para calcular a área:
+
+1. Divide a figura em retângulos, quadrados, triângulos ou paralelogramos.
+2. Calcula a área de cada parte.
+3. Soma as áreas.
+
+Para calcular o perímetro:
+
+1. Conta apenas o contorno exterior.
+2. Não contes linhas que ficam por dentro da figura.
+
+---
+
+# 3.7. Sequências
+
+Uma sequência é uma lista de números ou figuras que segue uma regra.
+
+## Sequência numérica
+
+Exemplo:
+
+```text
+3, 6, 9, 12, ...
+```
+
+A regra é somar 3.
+
+Próximos termos:
+
+```text
+15, 18, 21
+```
+
+## Sequência figurativa
+
+Exemplo:
+
+```text
+Figura 1: 4 pontos
+Figura 2: 7 pontos
+Figura 3: 10 pontos
+Figura 4: 13 pontos
+```
+
+Aumenta sempre 3.
+
+Logo:
+
+```text
+Figura 5: 16 pontos
+Figura 6: 19 pontos
+```
+
+## Método
+
+1. Faz uma tabela.
+2. Vê quanto aumenta ou diminui.
+3. Confirma a regra em mais do que um passo.
+4. Usa a regra para descobrir termos mais à frente.
+
+---
+
+# 3.8. Expressões algébricas
+
+Uma expressão algébrica usa letras para representar números.
+
+A letra pode mudar de valor.
+
+## Exemplo
+
+```text
+n + 5
+```
+
+Se `n = 3`:
+
+```text
+n + 5 = 3 + 5 = 8
+```
+
+## Atenção ao 2n
+
+```text
+2n
+```
+
+significa:
+
+```text
+2 × n
+```
+
+## Exemplo
+
+```text
+2n + 1
+```
+
+Se `n = 4`:
+
+```text
+2 × 4 + 1 = 8 + 1 = 9
+```
+
+## Expressões em sequências
+
+Se uma sequência aumenta sempre da mesma forma, pode ser descrita por uma expressão.
+
+Exemplo:
+
+```text
+Figura 1: 3 palitos
+Figura 2: 5 palitos
+Figura 3: 7 palitos
+Figura 4: 9 palitos
+```
+
+Uma regra possível é:
+
+```text
+2n + 1
+```
+
+Para a figura 4:
+
+```text
+2 × 4 + 1 = 9
+```
+
+---
+
+# 3.9. Sólidos geométricos
+
+Um sólido geométrico é uma figura com três dimensões:
 
 - comprimento;
 - largura;
@@ -191,384 +653,194 @@ Exemplos:
 
 ---
 
-## 3.2. Faces, arestas e vértices
+# 3.10. Faces, arestas e vértices
 
-### Face
+## Face
 
-Uma **face** é uma superfície do sólido.
+Uma face é uma superfície de um sólido.
 
-Exemplo: um cubo tem 6 faces.
+Exemplo:
 
-### Aresta
+O cubo tem 6 faces.
 
-Uma **aresta** é o segmento onde duas faces se encontram.
+## Aresta
 
-Exemplo: um cubo tem 12 arestas.
+Uma aresta é o segmento onde duas faces se encontram.
 
-### Vértice
+Exemplo:
 
-Um **vértice** é o ponto onde se encontram arestas.
+O cubo tem 12 arestas.
 
-Exemplo: um cubo tem 8 vértices.
+## Vértice
+
+Um vértice é o ponto onde se encontram arestas.
+
+Exemplo:
+
+O cubo tem 8 vértices.
+
+## Truque
+
+```text
+Face = superfície
+Aresta = linha
+Vértice = ponto
+```
 
 ---
 
-## 3.3. Poliedros e não poliedros
+# 3.11. Poliedros e não poliedros
 
-Um **poliedro** é um sólido geométrico limitado apenas por superfícies planas.
+## Poliedros
 
-Exemplos de poliedros:
+Um poliedro é um sólido limitado apenas por faces planas.
+
+Exemplos:
 
 - cubo;
 - paralelepípedo;
 - prisma;
 - pirâmide.
 
-Um **não poliedro** tem pelo menos uma superfície curva.
+## Não poliedros
 
-Exemplos de não poliedros:
-
-- esfera;
-- cilindro;
-- cone.
-
----
-
-## 3.4. Prismas
-
-Um **prisma** tem:
-
-- duas bases iguais e paralelas;
-- faces laterais;
-- nome de acordo com a forma da base.
+Um não poliedro tem pelo menos uma superfície curva.
 
 Exemplos:
 
-- prisma triangular: bases triangulares;
-- prisma quadrangular: bases quadrangulares;
-- prisma pentagonal: bases pentagonais.
+- esfera;
+- cone;
+- cilindro.
+
+## Pergunta rápida
+
+```text
+Tem alguma superfície curva?
+```
+
+Se sim, é não poliedro.
+
+Se só tem faces planas, é poliedro.
 
 ---
 
-## 3.5. Pirâmides
+# 3.12. Prismas
 
-Uma **pirâmide** tem:
+Um prisma tem:
+
+- duas bases iguais;
+- duas bases paralelas;
+- faces laterais.
+
+O nome depende da forma da base.
+
+| Base                  | Nome                |
+| --------------------- | ------------------- |
+| Triângulo             | Prisma triangular   |
+| Quadrado ou retângulo | Prisma quadrangular |
+| Pentágono             | Prisma pentagonal   |
+| Hexágono              | Prisma hexagonal    |
+
+## Relações importantes em prismas
+
+Se a base do prisma tiver `n` lados:
+
+```text
+Faces = n + 2
+Vértices = 2n
+Arestas = 3n
+```
+
+Exemplo: prisma triangular.
+
+A base tem 3 lados.
+
+```text
+Faces = 3 + 2 = 5
+Vértices = 2 × 3 = 6
+Arestas = 3 × 3 = 9
+```
+
+---
+
+# 3.13. Pirâmides
+
+Uma pirâmide tem:
 
 - uma base;
 - faces laterais triangulares;
 - um vértice principal.
 
-Exemplos:
+O nome depende da forma da base.
 
-- pirâmide triangular;
-- pirâmide quadrangular;
-- pirâmide pentagonal.
+| Base                  | Nome                  |
+| --------------------- | --------------------- |
+| Triângulo             | Pirâmide triangular   |
+| Quadrado ou retângulo | Pirâmide quadrangular |
+| Pentágono             | Pirâmide pentagonal   |
+| Hexágono              | Pirâmide hexagonal    |
 
----
+## Relações importantes em pirâmides
 
-## 3.6. Planificações
-
-Uma **planificação** é uma representação plana de todas as faces de um sólido.
-
-Por exemplo, uma planificação de um cubo tem 6 quadrados.
-
-Mas atenção: não basta ter as figuras certas. Elas têm de estar organizadas de forma que seja possível montar o sólido.
-
----
-
-## 3.7. Desigualdade triangular
-
-Para três comprimentos formarem um triângulo, a soma de quaisquer dois lados tem de ser maior do que o terceiro lado.
-
-Exemplo:
-
-Medidas: 3 cm, 4 cm e 5 cm.
-
-Verificações:
-
-- 3 + 4 > 5
-- 3 + 5 > 4
-- 4 + 5 > 3
-
-Como todas são verdadeiras, é possível formar um triângulo.
-
-Exemplo que não forma triângulo:
-
-Medidas: 2 cm, 3 cm e 5 cm.
-
-- 2 + 3 = 5
-
-Como a soma não é maior, não forma triângulo.
-
----
-
-## 3.8. Perímetro
-
-O **perímetro** é a medida do contorno de uma figura.
-
-Usa unidades como:
-
-- cm;
-- m;
-- mm.
-
-Exemplo:
-
-Um quadrado com lado de 5 cm tem perímetro:
+Se a base da pirâmide tiver `n` lados:
 
 ```text
-5 + 5 + 5 + 5 = 20 cm
+Faces = n + 1
+Vértices = n + 1
+Arestas = 2n
+```
+
+Exemplo: pirâmide quadrangular.
+
+A base tem 4 lados.
+
+```text
+Faces = 4 + 1 = 5
+Vértices = 4 + 1 = 5
+Arestas = 2 × 4 = 8
 ```
 
 ---
 
-## 3.9. Área
+# 4. Ficha 1 — Diagnóstico de sexta-feira
 
-A **área** é a medida da superfície ocupada por uma figura.
-
-Usa unidades quadradas, como:
-
-- cm²;
-- m²;
-- mm².
-
-Exemplo:
-
-Um retângulo com 6 cm de comprimento e 4 cm de largura tem área:
-
-```text
-6 × 4 = 24 cm²
-```
+Resolve sem veres as soluções.
 
 ---
 
-## 3.10. Sequências
+## Exercício 1 — Igualdade de triângulos
 
-Uma sequência é uma lista de números ou figuras que segue uma regra.
+Indica se os triângulos são iguais. Justifica com o critério correto, quando for possível.
 
-Exemplo:
+1. Triângulo A: lados 3 cm, 4 cm e 5 cm.  
+   Triângulo B: lados 3 cm, 4 cm e 5 cm.
 
-```text
-2, 4, 6, 8, 10, ...
-```
+2. Triângulo A: lados 5 cm, 6 cm e 7 cm.  
+   Triângulo B: lados 5 cm, 6 cm e 8 cm.
 
-A regra é somar 2.
+3. Triângulo A: dois lados de 4 cm e 6 cm, com ângulo de 50° entre eles.  
+   Triângulo B: dois lados de 4 cm e 6 cm, com ângulo de 50° entre eles.
 
-Numa sequência com figuras, pode ser necessário contar:
-
-- faces;
-- vértices;
-- arestas;
-- cubos;
-- palitos;
-- quadrados;
-- triângulos.
+4. Triângulo A: ângulos de 40° e 70°, com lado entre eles de 8 cm.  
+   Triângulo B: ângulos de 40° e 70°, com lado entre eles de 8 cm.
 
 ---
 
-## 3.11. Expressões algébricas
+## Exercício 2 — Figuras equivalentes
 
-Uma expressão algébrica usa letras para representar números.
+Indica se as figuras são equivalentes.
 
-Exemplo:
+1. Retângulo A: 6 cm × 4 cm.  
+   Retângulo B: 8 cm × 3 cm.
 
-```text
-n + 4
-```
+2. Quadrado A: lado 5 cm.  
+   Retângulo B: 10 cm × 2 cm.
 
-Se `n = 6`, então:
+3. Retângulo A: 7 cm × 3 cm.  
+   Retângulo B: 6 cm × 4 cm.
 
-```text
-n + 4 = 6 + 4 = 10
-```
-
-Outro exemplo:
-
-```text
-2n + 1
-```
-
-Significa:
-
-```text
-2 × n + 1
-```
-
-Se `n = 5`, então:
-
-```text
-2 × 5 + 1 = 11
-```
-
----
-
-# 4. Ficha de sexta-feira — Diagnóstico
-
-## Exercício 1 — Poliedros e não poliedros
-
-Classifica cada sólido como **poliedro** ou **não poliedro**.
-
-1. Cubo  
-2. Esfera  
-3. Prisma triangular  
-4. Cone  
-5. Pirâmide quadrangular  
-6. Cilindro  
-7. Paralelepípedo  
-
----
-
-## Exercício 2 — Prismas e pirâmides
-
-Indica se cada descrição corresponde a um **prisma** ou a uma **pirâmide**.
-
-1. Tem duas bases iguais e paralelas.  
-2. Tem uma base e faces laterais triangulares.  
-3. Tem duas bases triangulares iguais.  
-4. Tem uma base quadrada e quatro faces laterais triangulares.  
-5. As faces laterais encontram-se num vértice principal.  
-
----
-
-## Exercício 3 — Área ou perímetro?
-
-Indica se cada situação pede o cálculo de **área** ou **perímetro**.
-
-1. Colocar uma vedação à volta de um jardim.  
-2. Pintar uma parede.  
-3. Medir o contorno de um campo.  
-4. Saber quanto chão ocupa um tapete.  
-5. Colocar fita à volta de uma cartolina.  
-
----
-
-## Exercício 4 — Triângulos
-
-Verifica se é possível construir um triângulo com as seguintes medidas.
-
-1. 3 cm, 4 cm, 5 cm  
-2. 2 cm, 3 cm, 5 cm  
-3. 6 cm, 6 cm, 6 cm  
-4. 1 cm, 4 cm, 7 cm  
-5. 5 cm, 8 cm, 10 cm  
-
----
-
-## Exercício 5 — Expressões algébricas
-
-Calcula o valor de cada expressão.
-
-1. `n + 3`, se `n = 5`  
-2. `2n`, se `n = 4`  
-3. `3n + 1`, se `n = 2`  
-4. `10 - n`, se `n = 6`  
-5. `n × n`, se `n = 3`  
-
----
-
-# 5. Ficha de sábado — Sólidos, planificações e triângulos
-
-## Exercício 1 — Completar a tabela
-
-Completa a tabela.
-
-| Sólido | Poliedro ou não poliedro? | Prisma, pirâmide ou outro? |
-|---|---|---|
-| Cubo |  |  |
-| Esfera |  |  |
-| Prisma triangular |  |  |
-| Cone |  |  |
-| Pirâmide quadrangular |  |  |
-| Cilindro |  |  |
-| Paralelepípedo |  |  |
-
----
-
-## Exercício 2 — Verdadeiro ou falso
-
-Indica se as afirmações são verdadeiras ou falsas. Corrige as falsas.
-
-1. Todos os sólidos geométricos são poliedros.  
-2. Um cubo é um poliedro.  
-3. Um cilindro é um poliedro.  
-4. Uma pirâmide tem sempre faces laterais triangulares.  
-5. Um prisma tem duas bases iguais e paralelas.  
-6. Uma esfera tem faces planas.  
-7. Uma planificação mostra todas as faces de um sólido no plano.  
-
----
-
-## Exercício 3 — Prismas
-
-Responde.
-
-1. Como se chama um prisma com bases triangulares?  
-2. Como se chama um prisma com bases quadrangulares?  
-3. Um prisma pentagonal tem bases com que forma?  
-4. Um cubo pode ser considerado um prisma? Justifica.  
-
----
-
-## Exercício 4 — Pirâmides
-
-Responde.
-
-1. Como se chama uma pirâmide com base quadrada?  
-2. Que forma têm as faces laterais de uma pirâmide?  
-3. Quantas bases tem uma pirâmide?  
-4. Uma pirâmide triangular tem base com que forma?  
-
----
-
-## Exercício 5 — Planificações
-
-Responde por escrito.
-
-1. Uma planificação de um cubo tem quantos quadrados?  
-2. Uma planificação de uma pirâmide quadrangular deve ter que figuras?  
-3. Uma planificação de um prisma triangular deve ter que figuras?  
-4. Porque é que uma planificação pode estar errada mesmo tendo o número certo de faces?  
-
----
-
-## Exercício 6 — Desigualdade triangular
-
-Verifica se as medidas podem formar um triângulo. Justifica.
-
-1. 4 cm, 5 cm, 6 cm  
-2. 2 cm, 3 cm, 8 cm  
-3. 7 cm, 7 cm, 10 cm  
-4. 1 cm, 4 cm, 5 cm  
-5. 6 cm, 8 cm, 14 cm  
-6. 5 cm, 5 cm, 5 cm  
-7. 10 cm, 3 cm, 4 cm  
-8. 9 cm, 6 cm, 7 cm  
-
----
-
-# 6. Ficha de domingo — Área, perímetro, sequências e álgebra
-
-## Exercício 1 — Perímetros
-
-Calcula o perímetro.
-
-1. Quadrado com lado de 6 cm.  
-2. Retângulo com comprimento de 8 cm e largura de 3 cm.  
-3. Triângulo com lados de 5 cm, 6 cm e 7 cm.  
-4. Pentágono regular com lado de 4 cm.  
-5. Retângulo com comprimento de 12 m e largura de 5 m.  
-
----
-
-## Exercício 2 — Áreas
-
-Calcula a área.
-
-1. Quadrado com lado de 5 cm.  
-2. Retângulo com comprimento de 9 cm e largura de 4 cm.  
-3. Quadrado com lado de 7 m.  
-4. Retângulo com comprimento de 10 m e largura de 6 m.  
-5. Retângulo com comprimento de 15 cm e largura de 2 cm.  
+4. Triângulo A: base 10 cm e altura 4 cm.  
+   Retângulo B: 5 cm × 4 cm.
 
 ---
 
@@ -576,176 +848,146 @@ Calcula a área.
 
 Escreve **área** ou **perímetro**.
 
-1. Medir a quantidade de relva necessária para cobrir um jardim.  
-2. Colocar uma moldura à volta de um quadro.  
-3. Pintar o tampo de uma mesa.  
-4. Colocar rodapé à volta de uma sala.  
-5. Saber quanto espaço ocupa uma piscina no chão.  
+1. Colocar uma vedação à volta de um jardim.
+2. Pintar uma parede.
+3. Medir o contorno de um campo.
+4. Cobrir o chão com azulejos.
+5. Colocar fita à volta de uma cartolina.
 
 ---
 
-## Exercício 4 — Sequências numéricas
-
-Descobre a regra e escreve os próximos três termos.
-
-1. 2, 4, 6, 8, ___, ___, ___  
-2. 5, 10, 15, 20, ___, ___, ___  
-3. 3, 6, 9, 12, ___, ___, ___  
-4. 20, 18, 16, 14, ___, ___, ___  
-5. 1, 4, 7, 10, ___, ___, ___  
-
----
-
-## Exercício 5 — Sequências com figuras
-
-Imagina uma sequência de figuras feita com quadrados.
-
-- Figura 1: 2 quadrados
-- Figura 2: 4 quadrados
-- Figura 3: 6 quadrados
-- Figura 4: 8 quadrados
-
-Responde.
-
-1. Quantos quadrados tem a figura 5?  
-2. Quantos quadrados tem a figura 10?  
-3. Qual é a regra da sequência?  
-4. Escreve uma expressão para calcular o número de quadrados da figura `n`.  
-
----
-
-## Exercício 6 — Sequência com palitos
-
-Uma sequência é construída com palitos.
-
-- Figura 1: 3 palitos
-- Figura 2: 5 palitos
-- Figura 3: 7 palitos
-- Figura 4: 9 palitos
-
-Responde.
-
-1. Quantos palitos tem a figura 5?  
-2. Quantos palitos tem a figura 6?  
-3. Quantos palitos tem a figura 10?  
-4. A sequência aumenta sempre quanto?  
-5. Uma expressão possível é `2n + 1`. Confirma se funciona para a figura 4.  
-
----
-
-## Exercício 7 — Expressões algébricas
+## Exercício 4 — Expressões algébricas
 
 Calcula.
 
-1. `n + 5`, se `n = 3`  
-2. `2n`, se `n = 6`  
-3. `3n + 1`, se `n = 4`  
-4. `10 - n`, se `n = 7`  
-5. `n × n`, se `n = 5`  
-6. `4n`, se `n = 2`  
-7. `2n + 3`, se `n = 8`  
-8. `20 - 2n`, se `n = 6`  
+1. `n + 4`, se `n = 6`
+2. `2n`, se `n = 5`
+3. `3n + 1`, se `n = 4`
+4. `20 - n`, se `n = 7`
+5. `2n + 5`, se `n = 3`
 
 ---
 
-# 7. Ficha de segunda-feira — Simulação de teste
-
-## Instruções
-
-Resolve a ficha como se fosse um teste.
-
-Tempo sugerido: **45 minutos**.
-
-Tenta fazer sozinho primeiro. Só depois corrige.
-
----
-
-## Grupo I — Sólidos geométricos
-
-### 1. Classifica os sólidos
+## Exercício 5 — Sólidos geométricos
 
 Classifica como **poliedro** ou **não poliedro**.
 
-1. Cubo  
-2. Cilindro  
-3. Pirâmide triangular  
-4. Cone  
-5. Prisma pentagonal  
+1. Cubo
+2. Esfera
+3. Prisma triangular
+4. Cone
+5. Pirâmide quadrangular
+6. Cilindro
+7. Paralelepípedo
 
 ---
 
-### 2. Completa
-
-1. Um prisma tem duas bases __________ e __________.  
-2. Uma pirâmide tem uma base e faces laterais __________.  
-3. Um sólido com superfícies curvas não é um __________.  
-4. O ponto onde se encontram arestas chama-se __________.  
-5. O segmento onde duas faces se encontram chama-se __________.  
+# 5. Ficha 2 — Sábado: triângulos, figuras equivalentes, áreas e perímetros
 
 ---
 
-## Grupo II — Planificações
+## Exercício 1 — Critérios de igualdade de triângulos
 
-### 3. Responde
+Completa com **LLL**, **LAL** ou **ALA**.
 
-1. Quantas faces tem um cubo?  
-2. Que figuras aparecem numa planificação de uma pirâmide quadrangular?  
-3. Que figuras aparecem numa planificação de um prisma triangular?  
-4. Uma esfera tem planificação formada por polígonos? Justifica.  
-
----
-
-## Grupo III — Desigualdade triangular
-
-### 4. Verifica se é possível formar triângulo
-
-1. 5 cm, 6 cm, 7 cm  
-2. 2 cm, 4 cm, 6 cm  
-3. 8 cm, 3 cm, 4 cm  
-4. 9 cm, 9 cm, 10 cm  
+1. Dois triângulos têm os três lados correspondentes iguais.
+2. Dois triângulos têm dois lados e o ângulo entre eles iguais.
+3. Dois triângulos têm dois ângulos e o lado entre eles iguais.
+4. Um triângulo tem lados 4 cm, 5 cm e 6 cm. Outro tem lados 4 cm, 5 cm e 6 cm.
+5. Dois triângulos têm lados de 7 cm e 9 cm e o ângulo compreendido de 40°.
 
 ---
 
-## Grupo IV — Área e perímetro
+## Exercício 2 — Igualdade de triângulos
 
-### 5. Calcula
+Indica se é possível concluir que os triângulos são iguais.
 
-1. O perímetro de um quadrado com lado de 8 cm.  
-2. A área de um quadrado com lado de 8 cm.  
-3. O perímetro de um retângulo com comprimento de 10 cm e largura de 4 cm.  
-4. A área de um retângulo com comprimento de 10 cm e largura de 4 cm.  
-
----
-
-### 6. Escolhe a unidade correta
-
-Completa com `cm`, `cm²`, `m` ou `m²`.
-
-1. O perímetro de uma folha pode ser medido em __________.  
-2. A área de uma sala pode ser medida em __________.  
-3. O comprimento de uma parede pode ser medido em __________.  
-4. A área de uma cartolina pode ser medida em __________.  
+1. Têm os três lados iguais.
+2. Têm apenas um lado igual.
+3. Têm dois lados e o ângulo entre eles iguais.
+4. Têm dois ângulos e o lado entre eles iguais.
+5. Têm apenas dois lados iguais.
 
 ---
 
-## Grupo V — Sequências
+## Exercício 3 — Figuras equivalentes
 
-### 7. Sequência numérica
+Calcula as áreas e indica se as figuras são equivalentes.
 
-Descobre a regra e completa.
+1. Figura A: retângulo 9 cm × 4 cm.  
+   Figura B: quadrado de lado 6 cm.
 
-```text
-4, 8, 12, 16, ___, ___, ___
-```
+2. Figura A: paralelogramo com base 8 cm e altura 5 cm.  
+   Figura B: retângulo 10 cm × 4 cm.
 
-1. Próximos três termos: __________  
-2. Regra: __________  
+3. Figura A: triângulo com base 12 cm e altura 6 cm.  
+   Figura B: retângulo 9 cm × 4 cm.
+
+4. Figura A: quadrado de lado 7 cm.  
+   Figura B: retângulo 14 cm × 3 cm.
 
 ---
 
-### 8. Sequência de figuras
+## Exercício 4 — Perímetros
 
-Uma sequência tem:
+Calcula o perímetro.
+
+1. Quadrado com lado de 7 cm.
+2. Retângulo com comprimento de 12 cm e largura de 5 cm.
+3. Triângulo com lados 6 cm, 8 cm e 10 cm.
+4. Pentágono regular com lado de 4 cm.
+5. Paralelogramo com lados 9 cm e 4 cm.
+
+---
+
+## Exercício 5 — Áreas
+
+Calcula a área.
+
+1. Quadrado com lado de 8 cm.
+2. Retângulo com comprimento de 11 cm e largura de 3 cm.
+3. Paralelogramo com base 10 cm e altura 6 cm.
+4. Triângulo com base 14 cm e altura 5 cm.
+5. Triângulo com base 9 cm e altura 4 cm.
+
+---
+
+## Exercício 6 — Problemas
+
+1. Um jardim retangular tem 8 m de comprimento e 5 m de largura.  
+   a) Qual é o perímetro do jardim?  
+   b) Qual é a área do jardim?
+
+2. Uma parede retangular tem 4 m de largura e 3 m de altura.  
+   Quantos metros quadrados vão ser pintados?
+
+3. Um terreno em forma de paralelogramo tem base 20 m e altura 12 m.  
+   Qual é a área do terreno?
+
+4. Um triângulo tem base 16 cm e altura 7 cm.  
+   Qual é a sua área?
+
+---
+
+# 6. Ficha 3 — Domingo: sequências, expressões algébricas e sólidos
+
+---
+
+## Exercício 1 — Sequências numéricas
+
+Descobre a regra e escreve os próximos três termos.
+
+1. 2, 5, 8, 11, **_, _**, \_\_\_
+2. 4, 8, 12, 16, **_, _**, \_\_\_
+3. 30, 25, 20, 15, **_, _**, \_\_\_
+4. 1, 3, 5, 7, **_, _**, \_\_\_
+5. 6, 12, 18, 24, **_, _**, \_\_\_
+
+---
+
+## Exercício 2 — Sequências figurativas
+
+Uma sequência é feita com pontos.
 
 - Figura 1: 4 pontos
 - Figura 2: 7 pontos
@@ -754,212 +996,528 @@ Uma sequência tem:
 
 Responde.
 
-1. Quantos pontos tem a figura 5?  
-2. Quantos pontos tem a figura 10?  
-3. A sequência aumenta sempre quanto?  
-4. Escreve uma expressão possível para a figura `n`.  
+1. Quantos pontos tem a figura 5?
+2. Quantos pontos tem a figura 6?
+3. Quantos pontos tem a figura 10?
+4. Quanto aumenta de uma figura para a seguinte?
+5. Escreve uma expressão para a figura `n`.
 
 ---
 
-## Grupo VI — Expressões algébricas
+## Exercício 3 — Sequência de sólidos
 
-### 9. Calcula
+Uma sequência é feita com prismas triangulares.
 
-1. `n + 7`, se `n = 5`  
-2. `2n + 1`, se `n = 6`  
-3. `3n`, se `n = 4`  
-4. `20 - n`, se `n = 8`  
-5. `5n + 2`, se `n = 3`  
+- Figura 1: 1 prisma triangular
+- Figura 2: 2 prismas triangulares
+- Figura 3: 3 prismas triangulares
+
+Cada prisma triangular tem:
+
+- 5 faces;
+- 6 vértices;
+- 9 arestas.
+
+Responde.
+
+1. Quantas faces há na figura 4?
+2. Quantos vértices há na figura 5?
+3. Quantas arestas há na figura 3?
+4. Escreve uma expressão para o número de faces da figura `n`.
+5. Escreve uma expressão para o número de vértices da figura `n`.
+6. Escreve uma expressão para o número de arestas da figura `n`.
 
 ---
 
-# 8. Correção das fichas
+## Exercício 4 — Expressões algébricas
 
-## Correção da ficha de sexta-feira
+Calcula.
+
+1. `n + 6`, se `n = 4`
+2. `2n + 3`, se `n = 5`
+3. `4n`, se `n = 7`
+4. `30 - 2n`, se `n = 8`
+5. `3n + 2`, se `n = 6`
+6. `5n - 1`, se `n = 4`
+7. `n × n`, se `n = 9`
+8. `10 + 3n`, se `n = 3`
+
+---
+
+## Exercício 5 — Poliedros e não poliedros
+
+Classifica cada sólido.
+
+1. Cubo
+2. Cilindro
+3. Cone
+4. Prisma pentagonal
+5. Pirâmide triangular
+6. Esfera
+7. Paralelepípedo
+8. Pirâmide quadrangular
+
+---
+
+## Exercício 6 — Prismas e pirâmides
+
+Completa.
+
+1. Um prisma tem \***\*\_\_\*\*** bases iguais e paralelas.
+2. Uma pirâmide tem \***\*\_\_\*\*** base.
+3. As faces laterais de uma pirâmide são \***\*\_\_\*\***.
+4. Um prisma triangular tem bases em forma de \***\*\_\_\*\***.
+5. Uma pirâmide quadrangular tem base em forma de \***\*\_\_\*\***.
+
+---
+
+## Exercício 7 — Faces, arestas e vértices
+
+Completa a tabela.
+
+| Sólido                | Faces | Arestas | Vértices |
+| --------------------- | ----: | ------: | -------: |
+| Cubo                  |       |         |          |
+| Prisma triangular     |       |         |          |
+| Pirâmide quadrangular |       |         |          |
+| Prisma pentagonal     |       |         |          |
+| Pirâmide triangular   |       |         |          |
+
+---
+
+## Exercício 8 — Relações com n
+
+1. Um prisma tem base com `n` lados.  
+   a) Escreve a expressão do número de faces.  
+   b) Escreve a expressão do número de vértices.  
+   c) Escreve a expressão do número de arestas.
+
+2. Uma pirâmide tem base com `n` lados.  
+   a) Escreve a expressão do número de faces.  
+   b) Escreve a expressão do número de vértices.  
+   c) Escreve a expressão do número de arestas.
+
+---
+
+# 7. Ficha 4 — Segunda-feira: simulação de teste
+
+## Instruções
+
+Resolve como se fosse um teste.
+
+Tempo sugerido: 45 minutos.
+
+Não consultes as soluções durante a ficha.
+
+---
+
+## Grupo I — Igualdade de triângulos
+
+### 1. Critérios
+
+Indica o critério de igualdade de triângulos.
+
+1. Três lados correspondentes iguais.
+2. Dois lados e o ângulo entre eles iguais.
+3. Dois ângulos e o lado entre eles iguais.
+
+### 2. Aplicação
+
+Indica se é possível concluir que os triângulos são iguais.
+
+1. Triângulo A: lados 5 cm, 7 cm e 9 cm.  
+   Triângulo B: lados 5 cm, 7 cm e 9 cm.
+
+2. Triângulo A: lados 6 cm e 8 cm com ângulo de 50° entre eles.  
+   Triângulo B: lados 6 cm e 8 cm com ângulo de 50° entre eles.
+
+3. Triângulo A: dois lados iguais a 4 cm e 6 cm.  
+   Triângulo B: dois lados iguais a 4 cm e 6 cm.  
+   Não se sabe o ângulo entre eles.
+
+---
+
+## Grupo II — Figuras equivalentes, áreas e perímetros
+
+### 3. Figuras equivalentes
+
+Indica se as figuras são equivalentes.
+
+1. Retângulo 12 cm × 3 cm e quadrado de lado 6 cm.
+2. Paralelogramo com base 9 cm e altura 4 cm e retângulo 6 cm × 6 cm.
+3. Triângulo com base 10 cm e altura 8 cm e retângulo 5 cm × 8 cm.
+
+### 4. Cálculo
+
+1. Calcula o perímetro de um retângulo com comprimento 15 cm e largura 4 cm.
+2. Calcula a área de um retângulo com comprimento 15 cm e largura 4 cm.
+3. Calcula a área de um paralelogramo com base 11 cm e altura 5 cm.
+4. Calcula a área de um triângulo com base 18 cm e altura 6 cm.
+
+---
+
+## Grupo III — Sequências e expressões algébricas
+
+### 5. Sequência
+
+Observa a sequência:
+
+```text
+5, 9, 13, 17, ...
+```
+
+1. Qual é a regra?
+2. Quais são os próximos três termos?
+3. Uma expressão possível para o termo de ordem `n` é `4n + 1`. Confirma para `n = 3`.
+
+### 6. Expressões
+
+Calcula.
+
+1. `2n + 4`, se `n = 6`
+2. `5n - 3`, se `n = 4`
+3. `40 - 3n`, se `n = 7`
+
+---
+
+## Grupo IV — Sólidos geométricos
+
+### 7. Classificação
+
+Classifica como poliedro ou não poliedro.
+
+1. Prisma triangular
+2. Cilindro
+3. Esfera
+4. Pirâmide quadrangular
+5. Cubo
+
+### 8. Prismas e pirâmides
+
+1. Um prisma quadrangular tem base com quantos lados?
+2. Uma pirâmide pentagonal tem base com quantos lados?
+3. Um prisma triangular tem quantas faces?
+4. Uma pirâmide quadrangular tem quantas arestas?
+5. Um cubo tem quantas faces, arestas e vértices?
+
+---
+
+## Grupo V — Problema misto
+
+### 9. Problema
+
+Uma escola vai construir uma zona de jogos com forma retangular.
+
+O comprimento é 18 m e a largura é 10 m.
+
+1. Qual é o perímetro da zona de jogos?
+2. Qual é a área da zona de jogos?
+3. Se a escola quiser colocar uma vedação à volta, usa a área ou o perímetro?
+4. Se quiser colocar piso novo em toda a zona, usa a área ou o perímetro?
+
+---
+
+# 8. Folha final de revisão
+
+Lê esta folha na segunda-feira à noite e na terça-feira antes do teste.
+
+## Igualdade de triângulos
+
+- Triângulos iguais têm a mesma forma e o mesmo tamanho.
+- Critério LLL: três lados iguais.
+- Critério LAL: dois lados e o ângulo entre eles iguais.
+- Critério ALA: dois ângulos e o lado entre eles iguais.
+- Um lado igual apenas não chega.
+- Dois lados iguais sem saber o ângulo entre eles também não chega.
+
+## Figuras equivalentes
+
+- Figuras equivalentes têm a mesma área.
+- Podem ter formas diferentes.
+- Podem ter perímetros diferentes.
+
+## Área e perímetro
+
+- Perímetro mede o contorno.
+- Área mede a superfície.
+- Perímetro usa cm, m, mm.
+- Área usa cm², m², mm².
+- Área do quadrado: lado × lado.
+- Área do retângulo: comprimento × largura.
+- Área do paralelogramo: base × altura.
+- Área do triângulo: base × altura ÷ 2.
+
+## Sequências
+
+- Procura a regra.
+- Confirma a regra em mais do que um passo.
+- Faz uma tabela se for necessário.
+
+## Expressões algébricas
+
+- Uma letra representa um número.
+- `2n` significa `2 × n`.
+- Substitui a letra pelo valor dado.
+- Depois faz as contas.
+
+## Sólidos
+
+- Poliedros só têm faces planas.
+- Não poliedros têm pelo menos uma superfície curva.
+- Prisma: duas bases iguais e paralelas.
+- Pirâmide: uma base e faces laterais triangulares.
+- Face = superfície.
+- Aresta = linha.
+- Vértice = ponto.
+
+## Fórmulas dos sólidos
+
+Se a base de um prisma tem `n` lados:
+
+```text
+Faces = n + 2
+Vértices = 2n
+Arestas = 3n
+```
+
+Se a base de uma pirâmide tem `n` lados:
+
+```text
+Faces = n + 1
+Vértices = n + 1
+Arestas = 2n
+```
+
+---
+
+# 9. Método para corrigir erros
+
+Quando corrigires, tenta perceber o tipo de erro.
+
+| Tipo de erro | O que significa               | O que fazer                  |
+| ------------ | ----------------------------- | ---------------------------- |
+| Conceito     | Não percebi a ideia           | Voltar à explicação          |
+| Cálculo      | Percebi, mas fiz mal a conta  | Repetir com calma            |
+| Atenção      | Li mal ou esqueci uma unidade | Ler o enunciado outra vez    |
+| Estratégia   | Não sabia por onde começar    | Procurar um exemplo parecido |
+
+## Perguntas úteis
+
+Antes de veres a solução, pergunta:
+
+```text
+O que me pedem?
+É área ou perímetro?
+Tenho de comparar áreas?
+É um prisma ou uma pirâmide?
+É poliedro ou não poliedro?
+Que letra tenho de substituir?
+Qual é a regra da sequência?
+Que critério de igualdade de triângulos se aplica?
+```
+
+---
+
+# 10. Soluções
+
+Não consultes esta parte antes de resolveres as fichas.
+
+---
+
+## Soluções da Ficha 1
 
 ### Exercício 1
 
-1. Cubo — poliedro  
-2. Esfera — não poliedro  
-3. Prisma triangular — poliedro  
-4. Cone — não poliedro  
-5. Pirâmide quadrangular — poliedro  
-6. Cilindro — não poliedro  
-7. Paralelepípedo — poliedro  
+1. Sim. Critério LLL.
+2. Não. Um dos lados é diferente.
+3. Sim. Critério LAL.
+4. Sim. Critério ALA.
 
 ### Exercício 2
 
-1. Prisma  
-2. Pirâmide  
-3. Prisma  
-4. Pirâmide  
-5. Pirâmide  
+1. Sim. A: 6 × 4 = 24 cm². B: 8 × 3 = 24 cm².
+2. Não. A: 5 × 5 = 25 cm². B: 10 × 2 = 20 cm².
+3. Não. A: 7 × 3 = 21 cm². B: 6 × 4 = 24 cm².
+4. Sim. A: (10 × 4) ÷ 2 = 20 cm². B: 5 × 4 = 20 cm².
 
 ### Exercício 3
 
-1. Perímetro  
-2. Área  
-3. Perímetro  
-4. Área  
-5. Perímetro  
+1. Perímetro
+2. Área
+3. Perímetro
+4. Área
+5. Perímetro
 
 ### Exercício 4
 
-1. Sim  
-2. Não  
-3. Sim  
-4. Não  
-5. Sim  
+1. 10
+2. 10
+3. 13
+4. 13
+5. 11
 
 ### Exercício 5
 
-1. 8  
-2. 8  
-3. 7  
-4. 4  
-5. 9  
+1. Cubo — poliedro
+2. Esfera — não poliedro
+3. Prisma triangular — poliedro
+4. Cone — não poliedro
+5. Pirâmide quadrangular — poliedro
+6. Cilindro — não poliedro
+7. Paralelepípedo — poliedro
 
 ---
 
-## Correção da ficha de sábado
+## Soluções da Ficha 2
 
 ### Exercício 1
 
-| Sólido | Poliedro ou não poliedro? | Prisma, pirâmide ou outro? |
-|---|---|---|
-| Cubo | Poliedro | Prisma |
-| Esfera | Não poliedro | Outro |
-| Prisma triangular | Poliedro | Prisma |
-| Cone | Não poliedro | Outro |
-| Pirâmide quadrangular | Poliedro | Pirâmide |
-| Cilindro | Não poliedro | Outro |
-| Paralelepípedo | Poliedro | Prisma |
+1. LLL
+2. LAL
+3. ALA
+4. LLL
+5. LAL
 
 ### Exercício 2
 
-1. Falso. Cone, cilindro e esfera, por exemplo, não são poliedros.  
-2. Verdadeiro.  
-3. Falso. O cilindro tem superfície curva.  
-4. Verdadeiro.  
-5. Verdadeiro.  
-6. Falso. A esfera tem superfície curva.  
-7. Verdadeiro.  
+1. Sim.
+2. Não.
+3. Sim.
+4. Sim.
+5. Não.
 
 ### Exercício 3
 
-1. Prisma triangular.  
-2. Prisma quadrangular.  
-3. Pentágonos.  
-4. Sim. Um cubo tem duas bases iguais e paralelas e faces planas; pode ser visto como um prisma quadrangular especial.  
+1. A: 9 × 4 = 36 cm². B: 6 × 6 = 36 cm². São equivalentes.
+2. A: 8 × 5 = 40 cm². B: 10 × 4 = 40 cm². São equivalentes.
+3. A: (12 × 6) ÷ 2 = 36 cm². B: 9 × 4 = 36 cm². São equivalentes.
+4. A: 7 × 7 = 49 cm². B: 14 × 3 = 42 cm². Não são equivalentes.
 
 ### Exercício 4
 
-1. Pirâmide quadrangular.  
-2. Triângulos.  
-3. Uma base.  
-4. Triângulo.  
+1. 28 cm
+2. 34 cm
+3. 24 cm
+4. 20 cm
+5. 26 cm
 
 ### Exercício 5
 
-1. 6 quadrados.  
-2. 1 quadrado e 4 triângulos.  
-3. 2 triângulos e 3 retângulos.  
-4. Porque as faces podem estar colocadas de forma que não permita montar o sólido.  
+1. 64 cm²
+2. 33 cm²
+3. 60 cm²
+4. 35 cm²
+5. 18 cm²
 
 ### Exercício 6
 
-1. Sim.  
-2. Não, porque 2 + 3 < 8.  
-3. Sim.  
-4. Não, porque 1 + 4 = 5.  
-5. Não, porque 6 + 8 = 14.  
-6. Sim.  
-7. Não, porque 3 + 4 < 10.  
-8. Sim.  
+1.  a) 8 + 5 + 8 + 5 = 26 m  
+    b) 8 × 5 = 40 m²
+
+2.  4 × 3 = 12 m²
+
+3.  20 × 12 = 240 m²
+
+4.  (16 × 7) ÷ 2 = 56 cm²
 
 ---
 
-## Correção da ficha de domingo
+## Soluções da Ficha 3
 
 ### Exercício 1
 
-1. 24 cm  
-2. 22 cm  
-3. 18 cm  
-4. 20 cm  
-5. 34 m  
+1. 14, 17, 20 — somar 3
+2. 20, 24, 28 — somar 4
+3. 10, 5, 0 — subtrair 5
+4. 9, 11, 13 — somar 2
+5. 30, 36, 42 — somar 6
 
 ### Exercício 2
 
-1. 25 cm²  
-2. 36 cm²  
-3. 49 m²  
-4. 60 m²  
-5. 30 cm²  
+1. 16 pontos
+2. 19 pontos
+3. 31 pontos
+4. Aumenta 3.
+5. `3n + 1`
 
 ### Exercício 3
 
-1. Área  
-2. Perímetro  
-3. Área  
-4. Perímetro  
-5. Área  
+1. 20 faces
+2. 30 vértices
+3. 27 arestas
+4. `5n`
+5. `6n`
+6. `9n`
 
 ### Exercício 4
 
-1. 10, 12, 14 — somar 2  
-2. 25, 30, 35 — somar 5  
-3. 15, 18, 21 — somar 3  
-4. 12, 10, 8 — subtrair 2  
-5. 13, 16, 19 — somar 3  
+1. 10
+2. 13
+3. 28
+4. 14
+5. 20
+6. 19
+7. 81
+8. 19
 
 ### Exercício 5
 
-1. 10 quadrados  
-2. 20 quadrados  
-3. Multiplicar o número da figura por 2.  
-4. `2n`  
+1. Cubo — poliedro
+2. Cilindro — não poliedro
+3. Cone — não poliedro
+4. Prisma pentagonal — poliedro
+5. Pirâmide triangular — poliedro
+6. Esfera — não poliedro
+7. Paralelepípedo — poliedro
+8. Pirâmide quadrangular — poliedro
 
 ### Exercício 6
 
-1. 11 palitos  
-2. 13 palitos  
-3. 21 palitos  
-4. Aumenta sempre 2.  
-5. Para a figura 4: `2 × 4 + 1 = 9`. Funciona.  
+1. duas
+2. uma
+3. triangulares
+4. triângulo
+5. quadrado ou quadrilátero
 
 ### Exercício 7
 
-1. 8  
-2. 12  
-3. 13  
-4. 3  
-5. 25  
-6. 8  
-7. 19  
-8. 8  
+| Sólido                | Faces | Arestas | Vértices |
+| --------------------- | ----: | ------: | -------: |
+| Cubo                  |     6 |      12 |        8 |
+| Prisma triangular     |     5 |       9 |        6 |
+| Pirâmide quadrangular |     5 |       8 |        5 |
+| Prisma pentagonal     |     7 |      15 |       10 |
+| Pirâmide triangular   |     4 |       6 |        4 |
+
+### Exercício 8
+
+1. Prisma:
+   a) `n + 2`  
+   b) `2n`  
+   c) `3n`
+
+2. Pirâmide:
+   a) `n + 1`  
+   b) `n + 1`  
+   c) `2n`
 
 ---
 
-## Correção da simulação de teste
+## Soluções da Ficha 4 — Simulação de teste
 
 ## Grupo I
 
 ### 1.
 
-1. Cubo — poliedro  
-2. Cilindro — não poliedro  
-3. Pirâmide triangular — poliedro  
-4. Cone — não poliedro  
-5. Prisma pentagonal — poliedro  
+1. LLL
+2. LAL
+3. ALA
 
 ### 2.
 
-1. iguais; paralelas  
-2. triangulares  
-3. poliedro  
-4. vértice  
-5. aresta  
+1. Sim. Critério LLL.
+2. Sim. Critério LAL.
+3. Não é possível concluir. Dois lados iguais sem o ângulo entre eles não chegam.
 
 ---
 
@@ -967,149 +1525,83 @@ Responde.
 
 ### 3.
 
-1. 6 faces.  
-2. 1 quadrado e 4 triângulos.  
-3. 2 triângulos e 3 retângulos.  
-4. Não. A esfera tem superfície curva e não é formada por polígonos.  
+1. Retângulo: 12 × 3 = 36 cm². Quadrado: 6 × 6 = 36 cm². São equivalentes.
+2. Paralelogramo: 9 × 4 = 36 cm². Retângulo: 6 × 6 = 36 cm². São equivalentes.
+3. Triângulo: (10 × 8) ÷ 2 = 40 cm². Retângulo: 5 × 8 = 40 cm². São equivalentes.
+
+### 4.
+
+1. 15 + 4 + 15 + 4 = 38 cm
+2. 15 × 4 = 60 cm²
+3. 11 × 5 = 55 cm²
+4. (18 × 6) ÷ 2 = 54 cm²
 
 ---
 
 ## Grupo III
 
-### 4.
+### 5.
 
-1. Sim.  
-2. Não, porque 2 + 4 = 6.  
-3. Não, porque 3 + 4 < 8.  
-4. Sim.  
+1. Somar 4.
+2. 21, 25, 29.
+3. Para `n = 3`: `4 × 3 + 1 = 13`. Funciona.
+
+### 6.
+
+1. 16
+2. 17
+3. 19
 
 ---
 
 ## Grupo IV
 
-### 5.
+### 7.
 
-1. `8 + 8 + 8 + 8 = 32 cm`  
-2. `8 × 8 = 64 cm²`  
-3. `10 + 4 + 10 + 4 = 28 cm`  
-4. `10 × 4 = 40 cm²`  
+1. Prisma triangular — poliedro
+2. Cilindro — não poliedro
+3. Esfera — não poliedro
+4. Pirâmide quadrangular — poliedro
+5. Cubo — poliedro
 
-### 6.
+### 8.
 
-1. cm  
-2. m²  
-3. m  
-4. cm²  
+1. 4 lados.
+2. 5 lados.
+3. 5 faces.
+4. 8 arestas.
+5. 6 faces, 12 arestas e 8 vértices.
 
 ---
 
 ## Grupo V
 
-### 7.
-
-1. 20, 24, 28  
-2. Somar 4.  
-
-### 8.
-
-1. 16 pontos  
-2. 31 pontos  
-3. Aumenta sempre 3.  
-4. Uma expressão possível é `3n + 1`.  
-
-Verificação:
-
-- Figura 1: `3 × 1 + 1 = 4`
-- Figura 2: `3 × 2 + 1 = 7`
-- Figura 3: `3 × 3 + 1 = 10`
-
----
-
-## Grupo VI
-
 ### 9.
 
-1. 12  
-2. 13  
-3. 12  
-4. 12  
-5. 17  
+1. Perímetro: 18 + 10 + 18 + 10 = 56 m
+2. Área: 18 × 10 = 180 m²
+3. Para vedação usa-se o perímetro.
+4. Para piso usa-se a área.
 
 ---
 
-# 9. Folha final de revisão
+# 11. Mensagem final para o Lucas
 
-Esta folha pode ser lida na segunda-feira à noite e na terça-feira antes do teste.
+Lucas, este teste tem muitos temas, mas eles ligam-se uns aos outros.
 
-## Ideias-chave
+A melhor forma de estudar é perceber as ideias principais:
 
-1. Um poliedro só tem superfícies planas.
-2. Cone, cilindro e esfera não são poliedros.
-3. Um prisma tem duas bases iguais e paralelas.
-4. Uma pirâmide tem uma base e faces laterais triangulares.
-5. O perímetro mede o contorno.
-6. A área mede a superfície.
-7. Perímetro usa unidades como cm, m ou mm.
-8. Área usa unidades quadradas como cm², m² ou mm².
-9. Para formar um triângulo, a soma de dois lados tem de ser maior do que o terceiro.
-10. Numa sequência, devo descobrir o que muda de uma figura para a seguinte.
-11. Numa expressão algébrica, substituo a letra pelo número dado.
-12. `2n` significa `2 × n`.
-13. Antes de entregar o teste, devo confirmar unidades, cálculos e enunciados.
+- Triângulos iguais têm a mesma forma e o mesmo tamanho.
+- Figuras equivalentes têm a mesma área.
+- Perímetro é à volta.
+- Área é a superfície.
+- Sequências têm uma regra.
+- Nas expressões algébricas, a letra representa um número.
+- Poliedros só têm faces planas.
+- Prismas têm duas bases.
+- Pirâmides têm uma base.
+- Face é superfície, aresta é linha e vértice é ponto.
 
----
+Faz os exercícios com calma, corrige os erros e volta aos pontos difíceis.
 
-# 10. Método para corrigir erros
-
-Quando corrigirem exercícios, não basta marcar certo ou errado.
-
-É melhor classificar o erro.
-
-| Tipo de erro | O que significa | Como corrigir |
-|---|---|---|
-| Conceito | Não percebeu a ideia | Voltar à teoria e usar exemplos simples |
-| Cálculo | Percebeu, mas fez mal a conta | Treinar contas parecidas |
-| Atenção | Leu mal ou esqueceu unidade | Criar rotina de revisão |
-| Estratégia | Não sabia por onde começar | Ensinar passos fixos para resolver |
-
-## Perguntas úteis
-
-- Como pensaste?
-- Onde começaste a resolver?
-- Que parte do enunciado era mais importante?
-- Que unidade devias usar?
-- Este exercício pede área ou perímetro?
-- Este sólido tem superfícies curvas?
-- Esta figura é prisma ou pirâmide?
-
----
-
-# 11. Rotina de revisão no teste
-
-Antes de entregar, confirmar:
-
-- Escrevi as unidades?
-- Usei cm para perímetro e cm² para área?
-- Verifiquei se era área ou perímetro?
-- Nas expressões algébricas, substituí a letra corretamente?
-- Nas sequências, confirmei a regra em mais do que um termo?
-- Nos triângulos, verifiquei se a soma de dois lados é maior do que o terceiro?
-- Nos sólidos, confirmei se havia superfícies curvas?
-
----
-
-# 12. Mini-plano emocional
-
-Como ele costuma ser bom aluno, a dificuldade pode assustá-lo mais do que a matéria em si.
-
-A mensagem principal deve ser:
-
-> Não precisamos de acertar tudo hoje. Precisamos de descobrir o que ainda não está claro e treinar isso com calma.
-
-Antes do teste:
-
-- dormir bem;
-- evitar estudo pesado na noite anterior;
-- rever só a folha final;
-- lembrar que errar nos treinos faz parte da preparação.
-
+Errar durante o estudo é normal. O importante é perceber o erro antes do teste.
