@@ -184,8 +184,6 @@ Entrar no teste calmo e confiante.
 
 Dois triângulos são **iguais** quando têm exatamente a mesma forma e o mesmo tamanho.
 
-Também se pode dizer que são **congruentes**.
-
 Isto significa que, se colocasses um triângulo por cima do outro, eles coincidiriam perfeitamente.
 
 Quando comparas dois triângulos, deves imaginar que estás a emparelhar as partes certas:
