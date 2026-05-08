@@ -60,7 +60,9 @@ Descobrir o que já sabes bem e o que precisa de mais treino.
 1. Ler a secção de apoio sobre:
     - igualdade de triângulos;
     - figuras equivalentes;
-    - área e perímetro.
+    - área e perímetro;
+    - sequências;
+    - sólidos geométricos.
 2. Resolver a **Ficha 1 — Diagnóstico**.
 3. Corrigir com as soluções.
 4. Preencher a tabela de dificuldades.
@@ -186,6 +188,14 @@ Também se pode dizer que são **congruentes**.
 
 Isto significa que, se colocasses um triângulo por cima do outro, eles coincidiriam perfeitamente.
 
+Quando comparas dois triângulos, deves imaginar que estás a emparelhar as partes certas:
+
+- o lado maior de um triângulo deve corresponder ao lado maior do outro;
+- o lado menor deve corresponder ao lado menor;
+- os ângulos que estão na mesma posição também devem corresponder.
+
+Não basta os dois triângulos “parecerem parecidos”. Para serem iguais, têm mesmo de ter medidas que garantam a mesma forma e o mesmo tamanho.
+
 ## O que tem de ser igual?
 
 Para dois triângulos serem iguais, os seus elementos correspondentes têm de ser iguais:
@@ -194,6 +204,12 @@ Para dois triângulos serem iguais, os seus elementos correspondentes têm de se
 - ângulos correspondentes iguais.
 
 Mas, muitas vezes, não é preciso conhecer tudo. Existem critérios que permitem concluir que dois triângulos são iguais.
+
+Um **critério de igualdade** é uma regra que te permite dizer:
+
+```text
+Tenho informação suficiente para garantir que estes dois triângulos são iguais.
+```
 
 ---
 
@@ -216,6 +232,8 @@ Triângulo B:
 ```
 
 Como os três lados são iguais, os triângulos são iguais.
+
+Este critério é útil quando o enunciado só fala de comprimentos. Se os três lados forem iguais, não há maneira de construir um triângulo diferente com essas mesmas três medidas.
 
 ---
 
@@ -246,6 +264,8 @@ lado = 7 cm
 
 Os triângulos são iguais pelo critério LAL.
 
+Neste critério, o ângulo tem de ser o ângulo **entre** os dois lados conhecidos. Se o ângulo não estiver entre esses lados, a informação pode não chegar.
+
 ---
 
 ## Critério ALA — Ângulo, Lado, Ângulo
@@ -275,6 +295,8 @@ lado entre os ângulos = 6 cm
 
 Os triângulos são iguais pelo critério ALA.
 
+Neste critério, o lado conhecido deve estar **entre** os dois ângulos conhecidos. A ordem das informações é importante.
+
 ---
 
 ## Atenção
@@ -285,6 +307,13 @@ Se tiverem apenas dois lados iguais, também não chega.
 
 Tens de ter informação suficiente para garantir que são exatamente iguais.
 
+### Erros comuns
+
+- Confundir triângulos iguais com triângulos parecidos.
+- Usar o critério LAL quando o ângulo dado não está entre os dois lados.
+- Dizer que dois lados iguais chegam para concluir que os triângulos são iguais.
+- Não verificar se os lados e ângulos comparados são correspondentes.
+
 ---
 
 # 3.2. Figuras equivalentes
@@ -292,6 +321,8 @@ Tens de ter informação suficiente para garantir que são exatamente iguais.
 Duas figuras são **equivalentes** quando têm a mesma área.
 
 Podem ter formas diferentes, mas ocupam a mesma superfície.
+
+Isto quer dizer que duas figuras equivalentes ocupam a mesma quantidade de espaço no plano, mesmo que uma seja mais comprida, mais estreita ou tenha uma forma diferente.
 
 ## Exemplo
 
@@ -323,6 +354,32 @@ Figuras equivalentes:
 - não precisam de ter o mesmo perímetro;
 - não precisam de ter a mesma forma.
 
+### Como verificar
+
+1. Calcula a área da primeira figura.
+2. Calcula a área da segunda figura.
+3. Compara os resultados.
+
+Se as áreas forem iguais, as figuras são equivalentes. Se forem diferentes, não são equivalentes.
+
+### Atenção
+
+Duas figuras podem ter a mesma área e perímetros diferentes.
+
+Exemplo:
+
+```text
+Retângulo A: 6 cm × 4 cm
+Área = 24 cm²
+Perímetro = 20 cm
+
+Retângulo B: 8 cm × 3 cm
+Área = 24 cm²
+Perímetro = 22 cm
+```
+
+As figuras são equivalentes porque têm a mesma área, mas não têm o mesmo perímetro.
+
 ---
 
 # 3.3. Perímetro
@@ -330,6 +387,8 @@ Figuras equivalentes:
 O **perímetro** é a medida do contorno de uma figura.
 
 É como se desses uma volta completa à figura.
+
+Quando calculas o perímetro, estás a somar comprimentos. Por isso, deves olhar apenas para os lados que fazem parte do contorno exterior.
 
 ## Unidades
 
@@ -370,11 +429,19 @@ Ou:
 2 × 8 + 2 × 3 = 22 cm
 ```
 
+### Em figuras compostas
+
+Quando a figura tem várias partes, não deves somar todos os segmentos desenhados. Soma apenas os lados que ficam do lado de fora da figura.
+
+As linhas interiores ajudam a dividir a figura, mas não fazem parte do contorno.
+
 ---
 
 # 3.4. Área
 
 A **área** é a medida da superfície ocupada por uma figura.
+
+Podes imaginar a área como o número de quadradinhos de 1 cm por 1 cm que cabem dentro da figura.
 
 ## Unidades
 
@@ -386,6 +453,8 @@ A área usa unidades quadradas:
 - km².
 
 Nunca se escreve `cm` na área.
+
+Quando a unidade é `cm²`, lê-se “centímetros quadrados”. Isto lembra-te que estás a medir uma superfície, não apenas um comprimento.
 
 ---
 
@@ -430,6 +499,8 @@ largura = 4 cm
 
 A altura tem de ser perpendicular à base.
 
+A altura não é necessariamente o lado inclinado. É a distância, em linha perpendicular, entre a base e o lado oposto.
+
 Exemplo:
 
 ```text
@@ -448,6 +519,8 @@ altura = 5 cm
 ```
 
 O triângulo tem metade da área de um paralelogramo com a mesma base e a mesma altura.
+
+É por isso que se divide por 2: dois triângulos iguais podem formar um paralelogramo.
 
 Exemplo:
 
@@ -513,6 +586,16 @@ Para calcular o perímetro:
 1. Conta apenas o contorno exterior.
 2. Não contes linhas que ficam por dentro da figura.
 
+### Estratégia
+
+Se a figura parecer difícil, faz um desenho simples e escreve as medidas nos lados. Depois pergunta:
+
+```text
+Estou a medir a superfície ou o contorno?
+```
+
+Se for superfície, divide a figura em partes conhecidas. Se for contorno, segue a linha de fora com o lápis.
+
 ---
 
 # 3.7. Sequências
@@ -562,6 +645,26 @@ Figura 6: 19 pontos
 3. Confirma a regra em mais do que um passo.
 4. Usa a regra para descobrir termos mais à frente.
 
+### Quando aparece uma expressão
+
+Nas sequências, a letra `n` costuma representar o número da figura ou a posição do termo.
+
+Exemplo:
+
+```text
+Figura 1 -> n = 1
+Figura 2 -> n = 2
+Figura 10 -> n = 10
+```
+
+Se a expressão for `3n + 1`, então para a figura 10 fazes:
+
+```text
+3 × 10 + 1 = 31
+```
+
+Uma boa estratégia é testar a expressão nas primeiras figuras para confirmar se funciona.
+
 ---
 
 # 3.8. Expressões algébricas
@@ -569,6 +672,8 @@ Figura 6: 19 pontos
 Uma expressão algébrica usa letras para representar números.
 
 A letra pode mudar de valor.
+
+Em muitos exercícios, a letra não é para descobrir. O enunciado já diz o valor da letra, e tu só tens de substituir.
 
 ## Exemplo
 
@@ -631,6 +736,17 @@ Para a figura 4:
 2 × 4 + 1 = 9
 ```
 
+### Ordem das contas
+
+Quando substituis a letra por um número, faz primeiro as multiplicações e divisões, e só depois as somas e subtrações.
+
+Exemplo:
+
+```text
+2n + 5, se n = 3
+2 × 3 + 5 = 6 + 5 = 11
+```
+
 ---
 
 # 3.9. Sólidos geométricos
@@ -651,6 +767,8 @@ Exemplos:
 - cone;
 - esfera.
 
+Uma figura plana, como um triângulo ou um retângulo desenhado numa folha, tem apenas duas dimensões. Um sólido, como uma caixa ou uma bola, ocupa espaço e tem volume.
+
 ---
 
 # 3.10. Faces, arestas e vértices
@@ -663,6 +781,8 @@ Exemplo:
 
 O cubo tem 6 faces.
 
+Nos poliedros, as faces são figuras planas, como triângulos, quadrados, retângulos ou outros polígonos.
+
 ## Aresta
 
 Uma aresta é o segmento onde duas faces se encontram.
@@ -671,6 +791,8 @@ Exemplo:
 
 O cubo tem 12 arestas.
 
+Pensa numa aresta como uma “linha de encontro” entre duas faces.
+
 ## Vértice
 
 Um vértice é o ponto onde se encontram arestas.
@@ -678,6 +800,8 @@ Um vértice é o ponto onde se encontram arestas.
 Exemplo:
 
 O cubo tem 8 vértices.
+
+Pensa num vértice como um “canto” do sólido.
 
 ## Truque
 
@@ -702,6 +826,8 @@ Exemplos:
 - prisma;
 - pirâmide.
 
+Como as faces são planas, consegues imaginar o poliedro feito com pedaços de cartolina.
+
 ## Não poliedros
 
 Um não poliedro tem pelo menos uma superfície curva.
@@ -711,6 +837,8 @@ Exemplos:
 - esfera;
 - cone;
 - cilindro.
+
+Nestes sólidos, há partes arredondadas. Por isso, não são formados apenas por polígonos.
 
 ## Pergunta rápida
 
@@ -732,14 +860,18 @@ Um prisma tem:
 - duas bases paralelas;
 - faces laterais.
 
+As duas bases ficam em “lados opostos” do prisma. As faces laterais ligam uma base à outra.
+
 O nome depende da forma da base.
 
-| Base                  | Nome                |
-| --------------------- | ------------------- |
-| Triângulo             | Prisma triangular   |
-| Quadrado ou retângulo | Prisma quadrangular |
-| Pentágono             | Prisma pentagonal   |
-| Hexágono              | Prisma hexagonal    |
+| Base         | Nome                |
+| ------------ | ------------------- |
+| Triângulo    | Prisma triangular   |
+| Quadrilátero | Prisma quadrangular |
+| Pentágono    | Prisma pentagonal   |
+| Hexágono     | Prisma hexagonal    |
+
+Um quadrado e um retângulo são exemplos de quadriláteros, porque ambos têm 4 lados.
 
 ## Relações importantes em prismas
 
@@ -771,14 +903,18 @@ Uma pirâmide tem:
 - faces laterais triangulares;
 - um vértice principal.
 
+Todas as faces laterais encontram-se no vértice principal, como se “subissem” da base até um ponto.
+
 O nome depende da forma da base.
 
-| Base                  | Nome                  |
-| --------------------- | --------------------- |
-| Triângulo             | Pirâmide triangular   |
-| Quadrado ou retângulo | Pirâmide quadrangular |
-| Pentágono             | Pirâmide pentagonal   |
-| Hexágono              | Pirâmide hexagonal    |
+| Base         | Nome                  |
+| ------------ | --------------------- |
+| Triângulo    | Pirâmide triangular   |
+| Quadrilátero | Pirâmide quadrangular |
+| Pentágono    | Pirâmide pentagonal   |
+| Hexágono     | Pirâmide hexagonal    |
+
+Uma pirâmide quadrangular pode ter base quadrada, retangular ou outro quadrilátero.
 
 ## Relações importantes em pirâmides
 
@@ -882,6 +1018,37 @@ Classifica como **poliedro** ou **não poliedro**.
 
 ---
 
+## Exercício 6 — Sequências
+
+Descobre a regra e completa.
+
+1. `3, 6, 9, 12, ___, ___`
+2. `20, 18, 16, 14, ___, ___`
+3. Uma sequência tem:
+    - Figura 1: 5 pontos
+    - Figura 2: 8 pontos
+    - Figura 3: 11 pontos
+
+    a) Quanto aumenta de uma figura para a seguinte?  
+    b) Quantos pontos tem a figura 4?  
+    c) Escreve uma expressão possível para a figura `n`.
+
+---
+
+## Exercício 7 — Faces, arestas e vértices
+
+Responde.
+
+1. Quantas faces tem um cubo?
+2. Quantas arestas tem um cubo?
+3. Quantos vértices tem um cubo?
+4. Um prisma triangular tem 5 faces, 9 arestas e 6 vértices. Desenha um prisma triangular simples e assinala:
+    - uma face;
+    - uma aresta;
+    - um vértice.
+
+---
+
 # 5. Ficha 2 — Sábado: triângulos, figuras equivalentes, áreas e perímetros
 
 ---
@@ -969,6 +1136,16 @@ Calcula a área.
 
 ---
 
+## Exercício 7 — Desenhar para compreender
+
+1. Desenha dois retângulos diferentes com área `24 cm²`.
+2. Calcula o perímetro de cada um dos retângulos que desenhaste.
+3. Os retângulos são equivalentes? Justifica.
+4. Têm o mesmo perímetro? Justifica.
+5. Desenha uma figura composta por um retângulo e um triângulo. Escreve as medidas que escolheres e calcula a área total.
+
+---
+
 # 6. Ficha 3 — Domingo: sequências, expressões algébricas e sólidos
 
 ---
@@ -977,11 +1154,11 @@ Calcula a área.
 
 Descobre a regra e escreve os próximos três termos.
 
-1. 2, 5, 8, 11, **_, _**, \_\_\_
-2. 4, 8, 12, 16, **_, _**, \_\_\_
-3. 30, 25, 20, 15, **_, _**, \_\_\_
-4. 1, 3, 5, 7, **_, _**, \_\_\_
-5. 6, 12, 18, 24, **_, _**, \_\_\_
+1. `2, 5, 8, 11, ___, ___, ___`
+2. `4, 8, 12, 16, ___, ___, ___`
+3. `30, 25, 20, 15, ___, ___, ___`
+4. `1, 3, 5, 7, ___, ___, ___`
+5. `6, 12, 18, 24, ___, ___, ___`
 
 ---
 
@@ -1063,15 +1240,17 @@ Classifica cada sólido.
 
 Completa.
 
-1. Um prisma tem \***\*\_\_\*\*** bases iguais e paralelas.
-2. Uma pirâmide tem \***\*\_\_\*\*** base.
-3. As faces laterais de uma pirâmide são \***\*\_\_\*\***.
-4. Um prisma triangular tem bases em forma de \***\*\_\_\*\***.
-5. Uma pirâmide quadrangular tem base em forma de \***\*\_\_\*\***.
+1. Um prisma tem **\_** bases iguais e paralelas.
+2. Uma pirâmide tem **\_** base.
+3. As faces laterais de uma pirâmide são **\_**.
+4. Um prisma triangular tem bases em forma de **\_**.
+5. Uma pirâmide quadrangular tem base em forma de **\_**.
 
 ---
 
 ## Exercício 7 — Faces, arestas e vértices
+
+Antes de completares a tabela, faz um desenho simples de cada sólido numa folha. Não precisa de ficar perfeito: o objetivo é ajudares o teu cérebro a ver as faces, as arestas e os vértices.
 
 Completa a tabela.
 
@@ -1096,6 +1275,15 @@ Completa a tabela.
    a) Escreve a expressão do número de faces.  
    b) Escreve a expressão do número de vértices.  
    c) Escreve a expressão do número de arestas.
+
+---
+
+## Exercício 9 — Desenho e identificação
+
+1. Desenha um cubo e assinala uma face, uma aresta e um vértice.
+2. Desenha uma pirâmide quadrangular e assinala a base.
+3. Desenha um prisma triangular e pinta, se puderes, as duas bases.
+4. Escreve uma frase a explicar a diferença principal entre um prisma e uma pirâmide.
 
 ---
 
@@ -1272,6 +1460,8 @@ Lê esta folha na segunda-feira à noite e na terça-feira antes do teste.
 
 ## Fórmulas dos sólidos
 
+Estas fórmulas são uma ajuda para exercícios mais gerais. Se ainda forem difíceis, começa por contar faces, arestas e vértices em sólidos concretos, como cubo, prisma triangular e pirâmide quadrangular.
+
 Se a base de um prisma tem `n` lados:
 
 ```text
@@ -1366,6 +1556,21 @@ Não consultes esta parte antes de resolveres as fichas.
 6. Cilindro — não poliedro
 7. Paralelepípedo — poliedro
 
+### Exercício 6
+
+1. 15, 18 — somar 3.
+2. 12, 10 — subtrair 2.
+3. a) Aumenta 3.  
+   b) Figura 4: 14 pontos.  
+   c) Uma expressão possível é `3n + 2`.
+
+### Exercício 7
+
+1. 6 faces.
+2. 12 arestas.
+3. 8 vértices.
+4. O desenho deve mostrar um prisma triangular e identificar corretamente uma face, uma aresta e um vértice.
+
 ---
 
 ## Soluções da Ficha 2
@@ -1419,6 +1624,20 @@ Não consultes esta parte antes de resolveres as fichas.
 3.  20 × 12 = 240 m²
 
 4.  (16 × 7) ÷ 2 = 56 cm²
+
+### Exercício 7
+
+Há várias respostas possíveis.
+
+Exemplo:
+
+1. Retângulo A: 6 cm × 4 cm. Área = 24 cm².  
+   Retângulo B: 8 cm × 3 cm. Área = 24 cm².
+2. Perímetro A: 6 + 4 + 6 + 4 = 20 cm.  
+   Perímetro B: 8 + 3 + 8 + 3 = 22 cm.
+3. Sim, são equivalentes porque têm a mesma área.
+4. Não têm o mesmo perímetro.
+5. A resposta depende do desenho. Deves calcular a área de cada parte e somar.
 
 ---
 
@@ -1477,7 +1696,7 @@ Não consultes esta parte antes de resolveres as fichas.
 2. uma
 3. triangulares
 4. triângulo
-5. quadrado ou quadrilátero
+5. quadrilátero. Também está correto escrever um exemplo, como quadrado ou retângulo.
 
 ### Exercício 7
 
@@ -1500,6 +1719,13 @@ Não consultes esta parte antes de resolveres as fichas.
    a) `n + 1`  
    b) `n + 1`  
    c) `2n`
+
+### Exercício 9
+
+1. O desenho deve identificar corretamente uma face, uma aresta e um vértice do cubo.
+2. O desenho deve mostrar uma pirâmide com base quadrangular.
+3. O desenho deve mostrar um prisma triangular com duas bases triangulares.
+4. Exemplo de resposta: um prisma tem duas bases iguais e paralelas; uma pirâmide tem uma base e faces laterais triangulares que se encontram num vértice.
 
 ---
 
