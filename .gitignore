@@ -1,0 +1,41 @@
+# Node.js (backend e frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+
+# Ambiente (segurança)
+.env
+.env.local
+.env.*.local
+
+# Diretórios de build
+/build
+/dist
+
+# Cache
+.cache/
+tmp/
+temp/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Backend específico
+/backend/node_modules/
+/backend/logs/
+/backend/dist/
+
+# Frontend específico (React)
+*/node_modules/
+*/build/
+
+# VScode e IDEs
+.vscode/
+.idea/
+*.swp
